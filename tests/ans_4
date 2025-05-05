@@ -1,0 +1,11 @@
+12:00
+12:05 1 client1
+12:10 2 client1 1
+12:15 1 client2
+12:20 2 client2 1
+12:20 13 PlaceIsBusy
+23:59 11 client1
+23:59 11 client2
+23:59
+1 360 11:49
+2 0 00:00
